@@ -1,5 +1,5 @@
 Nome:Miguel Ramos Pires de Oliveira
-RA:1999181
+RA:1999181  
 
 Nome do banco: to_do_list
 Nome da tabela: lista
